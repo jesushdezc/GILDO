@@ -5,6 +5,7 @@
     --primario: #784d3c;
     --blanco: #ffffff;
     --negro: #000000;
+    --gris: #808080;
 
 }
 
@@ -64,5 +65,6 @@ img {
 
 /** Header **/
 .header {
-    background-image: ;
+    background-color: var(--gris) ;
+
 }
